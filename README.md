@@ -3,8 +3,8 @@ Compilation of Best answers from Quora
 
 ## Topics
 * [Algorithms](https://github.com/vaibhav1729/Best_of_Quora/blob/master/README.md#algorithms)
-* Computer Programming
-* Facts and Trivia
+* [Computer Programming](https://github.com/vaibhav1729/Best_of_Quora/blob/master/README.md#computer-programming)
+* [Facts and Trivia](https://github.com/vaibhav1729/Best_of_Quora/blob/master/README.md#facts-and-trivia)
 * Finance
 * Kali Linux
 * Love
@@ -36,3 +36,22 @@ Compilation of Best answers from Quora
 * [How did Aman Goel manage to learn so many skills in his undergraduate years, and when did he start programming? by Aman Goel](https://www.quora.com/How-did-Aman-Goel-manage-to-learn-so-many-skills-in-his-undergraduate-years-and-when-did-he-start-programming/answer/Aman-Goel-9?share=d51e7b16)
 
 * [What basic data structures and algorithms should one learn before starting competitive programming? by Aman Goel](https://www.quora.com/What-basic-data-structures-and-algorithms-should-one-learn-before-starting-competitive-programming/answer/Aman-Goel-9?share=3077b39d)
+
+* [How are students in Indian colleges taught programming? by @hackerkidx](https://www.quora.com/How-are-students-in-Indian-colleges-taught-programming/answer/Vishnu-Subrahmaniam?share=41d74af0)
+
+* [How do I master python from scratch for free? by @ashish1294](https://www.quora.com/How-do-I-master-python-from-scratch-for-free/answer/Ashish-Kedia?share=7a90af46)
+
+* [In which language is Quora written in? by Ashutosh Tripathi](https://www.quora.com/In-which-language-is-Quora-written-in/answer/Ashutosh-Tripathi-157?share=5484c18c)
+
+* [What should a first year computer science engineering student do in the 40 day holiday before starting their 2nd year in order to to get better placement? Should one learn new skills from the internet on his/her own, or get some internship? by @balajivis](https://www.quora.com/What-should-a-first-year-computer-science-engineering-student-do-in-the-40-day-holiday-before-starting-their-2nd-year-in-order-to-to-get-better-placement-Should-one-learn-new-skills-from-the-internet-on-his-her-own-or-get-some-internship/answer/Balaji-Viswanathan-2?share=97c25ff1)
+
+
+### Facts and Trivia
+
+* [What are the dirty secrets Google doesn’t want you to know? by @vivekrajx](https://www.quora.com/What-are-the-dirty-secrets-Google-doesn%E2%80%99t-want-you-to-know/answer/Vivek-Raj-101?share=403363ec)
+
+* [What are some psychological facts that people don't know? by Mohammed Anush](https://www.quora.com/What-are-some-psychological-facts-that-people-dont-know-1/answer/Mohammed-Anush-1?share=0a1b74a5)
+
+* [What shocking things do most Indians not know? by @singhprbt](https://www.quora.com/What-shocking-things-do-most-Indians-not-know/answer/Prabhat-G-Singh?share=74535894)
+
+
