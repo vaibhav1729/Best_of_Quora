@@ -2,7 +2,7 @@
 Compilation of Best answers from Quora 
 
 ## Topics
-* Algorithms
+* [Algorithms](https://github.com/vaibhav1729/Best_of_Quora/blob/master/README.md#algorithms)
 * Computer Programming
 * Facts and Trivia
 * Finance
@@ -25,3 +25,4 @@ Compilation of Best answers from Quora
 
 * [How do you invent your own algorithms to solve different cubes without watching tutorials? by Alon Amit](https://www.quora.com/How-do-you-invent-your-own-algorithms-to-solve-different-cubes-without-watching-tutorials/answer/Alon-Amit?share=1029103c)
 
+* [How do I plan and complete reading "Introduction to Algorithms" and implement a decent number of algorithms within a period of one month? by Thomas Cormen](https://www.quora.com/How-do-I-plan-and-complete-reading-Introduction-to-Algorithms-and-implement-a-decent-number-of-algorithms-within-a-period-of-one-month/answer/Thomas-Cormen-1?share=76594b5d)
