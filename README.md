@@ -7,6 +7,7 @@ Compilation of Best answers from Quora
 * [Facts and Trivia](https://github.com/vaibhav1729/Best_of_Quora/blob/master/README.md#facts-and-trivia)
 * Finance
 * Kali Linux
+* History
 * Love
 * Motivation
 * Philosphy of everyday life
@@ -54,4 +55,6 @@ Compilation of Best answers from Quora
 
 * [What shocking things do most Indians not know? by @singhprbt](https://www.quora.com/What-shocking-things-do-most-Indians-not-know/answer/Prabhat-G-Singh?share=74535894)
 
+### History
 
+* [What are some of the best moments of humanity? by @NiklasGoeke](https://www.quora.com/What-are-some-of-the-best-moments-of-humanity/answer/Niklas-G%C3%B6ke?share=0c9c7167)
