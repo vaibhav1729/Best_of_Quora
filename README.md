@@ -85,7 +85,17 @@ Compilation of Best answers from Quora
 
 * [What are the greatest lies in Indian history? by Sthitaprajna Mishra](https://www.quora.com/What-are-the-greatest-lies-in-Indian-history/answer/Sthitaprajna-Mishra-2?share=4e0db8b3)
 
+### Motivation
 
+* [Each day I sleep with the guilt of not making my day productive but the next day I waste it again. I am getting depressed now. What should I do? by Shubhendu Srivastava](https://www.quora.com/Each-day-I-sleep-with-the-guilt-of-not-making-my-day-productive-but-the-next-day-I-waste-it-again-I-am-getting-depressed-now-What-should-I-do/answer/Shubhendu-Srivastava?share=71cb30e2)
+
+* [What inspires you? by Aman Gupta](https://www.quora.com/What-inspires-you-4/answer/Aman-Gupta-305?share=7bf6ee77)
+
+### Philosophy of Everyday Life
+
+* [Why am I not good at anything? by Nirvik A. Das](https://www.quora.com/Why-am-I-not-good-at-anything-1/answer/Nirvik-A-Das?share=ef06f6ff)
+
+* [When will girls begin to notice the nice guys? by @Harshita511](https://www.quora.com/When-will-girls-begin-to-notice-the-nice-guys/answer/Harshita-Sharma-38?share=cb1ee219)
 
 ### Miscellaneous
 
