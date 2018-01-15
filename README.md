@@ -3,11 +3,11 @@ Compilation of Best answers from Quora
 
 ## Topics
 * [Algorithms](https://github.com/vaibhav1729/Best_of_Quora/blob/master/README.md#algorithms)
+* [Computer Hacking (security)]()
 * [Computer Programming](https://github.com/vaibhav1729/Best_of_Quora/blob/master/README.md#computer-programming)
 * [Facts and Trivia](https://github.com/vaibhav1729/Best_of_Quora/blob/master/README.md#facts-and-trivia)
 * Finance
-* Kali Linux
-* History
+* [History](https://github.com/vaibhav1729/Best_of_Quora/blob/master/README.md#history)
 * Love
 * Motivation
 * Philosphy of everyday life
@@ -28,11 +28,16 @@ Compilation of Best answers from Quora
 
 * [How do I plan and complete reading "Introduction to Algorithms" and implement a decent number of algorithms within a period of one month? by Thomas Cormen](https://www.quora.com/How-do-I-plan-and-complete-reading-Introduction-to-Algorithms-and-implement-a-decent-number-of-algorithms-within-a-period-of-one-month/answer/Thomas-Cormen-1?share=76594b5d)
 
-### Computer Programming
+### Computer Hacking (security)
 
 * [Is it possible to write a program that shuts down Google? by Pavan Revanuru](https://www.quora.com/Is-it-possible-to-write-a-program-that-shuts-down-Google/answer/Pavan-Revanuru?share=2949d4c3)
 
 * [What are some good computer hacks made by students in college? by Anonymous](https://www.quora.com/What-are-some-good-computer-hacks-made-by-students-in-college/answers/5954955?share=eedf8fcd)
+
+* [Who is the greatest hacker in the world? by Mohit Rathore](https://www.quora.com/Who-is-the-greatest-hacker-in-the-world/answer/Mohit-Rathore-4?share=08d81471)
+
+
+### Computer Programming
 
 * [How did Aman Goel manage to learn so many skills in his undergraduate years, and when did he start programming? by Aman Goel](https://www.quora.com/How-did-Aman-Goel-manage-to-learn-so-many-skills-in-his-undergraduate-years-and-when-did-he-start-programming/answer/Aman-Goel-9?share=d51e7b16)
 
@@ -51,6 +56,8 @@ Compilation of Best answers from Quora
 * [What is your favorite coding project you have done? by Aseem Raina](https://www.quora.com/What-is-your-favorite-coding-project-you-have-done/answer/Aseem-Raina-2?share=ffa6e66c)
 
 * [What is your favorite coding project you have done? by Lev Kruglyak](https://www.quora.com/What-is-your-favorite-coding-project-you-have-done/answer/Lev-Kruglyak?share=da3c047b)
+
+* [Which mathematics topics should I learn to improve my algorithms skills and get started with competitive programming? by @ashish1294](https://www.quora.com/Which-mathematics-topics-should-I-learn-to-improve-my-algorithms-skills-and-get-started-with-competitive-programming/answer/Ashish-Kedia?share=7beca3f8)
 
 * [What should a first year computer science engineering student do in the 40 day holiday before starting their 2nd year in order to to get better placement? Should one learn new skills from the internet on his/her own, or get some internship? by @balajivis](https://www.quora.com/What-should-a-first-year-computer-science-engineering-student-do-in-the-40-day-holiday-before-starting-their-2nd-year-in-order-to-to-get-better-placement-Should-one-learn-new-skills-from-the-internet-on-his-her-own-or-get-some-internship/answer/Balaji-Viswanathan-2?share=97c25ff1)
 
