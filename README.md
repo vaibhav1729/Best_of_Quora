@@ -71,9 +71,13 @@ Compilation of Best answers from Quora
 
 * [What shocking things do most Indians not know? by @singhprbt](https://www.quora.com/What-shocking-things-do-most-Indians-not-know/answer/Prabhat-G-Singh?share=74535894)
 
+* [What is the most interesting fact that you know and I don't, but I should? by Aman Goel](https://www.quora.com/What-is-the-most-interesting-fact-that-you-know-and-I-dont-but-I-should/answer/Aman-Goel-9?share=1301b44e)
+
 ### History
 
 * [What are some of the best moments of humanity? by @NiklasGoeke](https://www.quora.com/What-are-some-of-the-best-moments-of-humanity/answer/Niklas-G%C3%B6ke?share=0c9c7167)
+
+* [What are the greatest lies in Indian history? by Sthitaprajna Mishra](https://www.quora.com/What-are-the-greatest-lies-in-Indian-history/answer/Sthitaprajna-Mishra-2?share=4e0db8b3)
 
 
 ### Miscellaneous
