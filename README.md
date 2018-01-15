@@ -40,6 +40,10 @@ Compilation of Best answers from Quora
 
 ### Computer Programming
 
+* [What is the shortest and most effective code ever written? by Rahul Kumar](https://www.quora.com/What-is-the-shortest-and-most-effective-code-ever-written/answer/Rahul-Kumar-6717?share=bc4d2096)
+
+* [What about the pointers in C confuses people? by @robinthomas91](https://www.quora.com/What-about-the-pointers-in-C-confuses-people/answer/Robin-Thomas-16?share=35bc560c)
+
 * [How did Aman Goel manage to learn so many skills in his undergraduate years, and when did he start programming? by Aman Goel](https://www.quora.com/How-did-Aman-Goel-manage-to-learn-so-many-skills-in-his-undergraduate-years-and-when-did-he-start-programming/answer/Aman-Goel-9?share=d51e7b16)
 
 * [What basic data structures and algorithms should one learn before starting competitive programming? by Aman Goel](https://www.quora.com/What-basic-data-structures-and-algorithms-should-one-learn-before-starting-competitive-programming/answer/Aman-Goel-9?share=3077b39d)
@@ -62,6 +66,8 @@ Compilation of Best answers from Quora
 
 * [What should a first year computer science engineering student do in the 40 day holiday before starting their 2nd year in order to to get better placement? Should one learn new skills from the internet on his/her own, or get some internship? by @balajivis](https://www.quora.com/What-should-a-first-year-computer-science-engineering-student-do-in-the-40-day-holiday-before-starting-their-2nd-year-in-order-to-to-get-better-placement-Should-one-learn-new-skills-from-the-internet-on-his-her-own-or-get-some-internship/answer/Balaji-Viswanathan-2?share=97c25ff1)
 
+* [What is JSON? by Prid Speed](https://www.quora.com/What-is-JSON-2/answers/50464172?share=8534699f)
+
 
 ### Facts and Trivia
 
@@ -80,6 +86,7 @@ Compilation of Best answers from Quora
 * [What are the greatest lies in Indian history? by Sthitaprajna Mishra](https://www.quora.com/What-are-the-greatest-lies-in-Indian-history/answer/Sthitaprajna-Mishra-2?share=4e0db8b3)
 
 
+
 ### Miscellaneous
 
 * [What are some cool dark web websites? by Abhishek Keshri](https://www.quora.com/What-are-some-cool-dark-web-websites/answer/Abhishek-Keshri-7?share=9bdfa180)
@@ -89,3 +96,13 @@ Compilation of Best answers from Quora
 * [How can I protect my eyes as a software engineer who constantly looks at a screen all day? by Kurt Guntheroth](https://www.quora.com/How-can-I-protect-my-eyes-as-a-software-engineer-who-constantly-looks-at-a-screen-all-day/answer/Kurt-Guntheroth-1?share=248b6db6)
 
 * [What are you ashamed of as an Indian? by @pranjulyadav1](https://www.quora.com/What-are-you-ashamed-of-as-an-Indian/answer/Pranjul-Yadav-1?share=8573a5ce)
+
+* [How can I start a conversation with a stranger? I want to improve my networking skills. by Aditya Salunkhe](https://www.quora.com/How-can-I-start-a-conversation-with-a-stranger-I-want-to-improve-my-networking-skills/answer/Aditya-Salunkhe-3?share=223d5670)
+
+* [How can you describe a cricketer in one photo? by Sahil Dev](https://www.quora.com/How-can-you-describe-a-cricketer-in-one-photo/answer/Sahil-Dev-3?share=630dd4b5)
+
+* [Is it really going to help India if we reduce our consumption of Chinese products? by @balajivis](https://www.quora.com/Is-it-really-going-to-help-India-if-we-reduce-our-consumption-of-Chinese-products/answer/Balaji-Viswanathan-2?share=243b71ce)
+
+* [How difficult is it to get a below 100 rank in the GATE (ECE)? by @pankajiitjee](https://www.quora.com/How-difficult-is-it-to-get-a-below-100-rank-in-the-GATE-ECE/answer/Pankaj-Agarwal-167?share=c35a2a09)
+
+
