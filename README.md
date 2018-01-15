@@ -3,18 +3,19 @@ Compilation of Best answers from Quora
 
 ## Topics
 * [Algorithms](https://github.com/vaibhav1729/Best_of_Quora/blob/master/README.md#algorithms)
-* [Computer Hacking (security)]()
+* [Computer Hacking (security)](https://github.com/vaibhav1729/Best_of_Quora#computer-hacking-security)
 * [Computer Programming](https://github.com/vaibhav1729/Best_of_Quora/blob/master/README.md#computer-programming)
 * [Facts and Trivia](https://github.com/vaibhav1729/Best_of_Quora/blob/master/README.md#facts-and-trivia)
 * Finance
 * [History](https://github.com/vaibhav1729/Best_of_Quora/blob/master/README.md#history)
 * Love
 * Motivation
-* Philosphy of everyday life
+* Philosophy of Everyday Life
 * Politics
 * Research
 * Web Marketing
 * Unix Commands
+* [Miscellaneous](https://github.com/vaibhav1729/Best_of_Quora/blob/master/README.md#miscellaneous)
 
 ### Algorithms
 
@@ -73,3 +74,14 @@ Compilation of Best answers from Quora
 ### History
 
 * [What are some of the best moments of humanity? by @NiklasGoeke](https://www.quora.com/What-are-some-of-the-best-moments-of-humanity/answer/Niklas-G%C3%B6ke?share=0c9c7167)
+
+
+### Miscellaneous
+
+* [What are some cool dark web websites? by Abhishek Keshri](https://www.quora.com/What-are-some-cool-dark-web-websites/answer/Abhishek-Keshri-7?share=9bdfa180)
+
+* [What can we do to protect our eyes when working for long in front of a computer? by John L. Miller](https://www.quora.com/What-can-we-do-to-protect-our-eyes-when-working-for-long-in-front-of-a-computer/answer/John-L-Miller?share=f881c868)
+
+* [How can I protect my eyes as a software engineer who constantly looks at a screen all day? by Kurt Guntheroth](https://www.quora.com/How-can-I-protect-my-eyes-as-a-software-engineer-who-constantly-looks-at-a-screen-all-day/answer/Kurt-Guntheroth-1?share=248b6db6)
+
+* [What are you ashamed of as an Indian? by @pranjulyadav1](https://www.quora.com/What-are-you-ashamed-of-as-an-Indian/answer/Pranjul-Yadav-1?share=8573a5ce)
