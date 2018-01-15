@@ -44,6 +44,14 @@ Compilation of Best answers from Quora
 
 * [In which language is Quora written in? by Ashutosh Tripathi](https://www.quora.com/In-which-language-is-Quora-written-in/answer/Ashutosh-Tripathi-157?share=5484c18c)
 
+* [What are some great truths of computer programming? by Daria Karasek](https://www.quora.com/What-are-some-great-truths-of-computer-programming/answer/Daria-Karasek?share=ad752d3c)
+
+* [How can I make myself perfect at coding in less than 24 hours? by @singh_pratik17](https://www.quora.com/How-can-I-make-myself-perfect-at-coding-in-less-than-24-hours/answer/Pratik-Singh-72?share=0eb1009d)
+
+* [What is your favorite coding project you have done? by Aseem Raina](https://www.quora.com/What-is-your-favorite-coding-project-you-have-done/answer/Aseem-Raina-2?share=ffa6e66c)
+
+* [What is your favorite coding project you have done? by Lev Kruglyak](https://www.quora.com/What-is-your-favorite-coding-project-you-have-done/answer/Lev-Kruglyak?share=da3c047b)
+
 * [What should a first year computer science engineering student do in the 40 day holiday before starting their 2nd year in order to to get better placement? Should one learn new skills from the internet on his/her own, or get some internship? by @balajivis](https://www.quora.com/What-should-a-first-year-computer-science-engineering-student-do-in-the-40-day-holiday-before-starting-their-2nd-year-in-order-to-to-get-better-placement-Should-one-learn-new-skills-from-the-internet-on-his-her-own-or-get-some-internship/answer/Balaji-Viswanathan-2?share=97c25ff1)
 
 
