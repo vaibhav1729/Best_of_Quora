@@ -15,8 +15,8 @@ Compilation of Best answers from Quora
 * Finance
 * [History](https://github.com/vaibhav1729/Best_of_Quora/blob/master/README.md#history)
 * Love
-* Motivation
-* Philosophy of Everyday Life
+* [Motivation](https://github.com/vaibhav1729/Best_of_Quora/blob/master/README.md#motivation)
+* [Philosophy of Everyday Life](https://github.com/vaibhav1729/Best_of_Quora/blob/master/README.md#philosophy-of-everyday-life)
 * Politics
 * Research
 * Web Marketing
@@ -97,11 +97,23 @@ Compilation of Best answers from Quora
 
 * [What inspires you? by Aman Gupta](https://www.quora.com/What-inspires-you-4/answer/Aman-Gupta-305?share=7bf6ee77)
 
+* [What's the best brain hack you know? by @deanyeong](https://www.quora.com/Whats-the-best-brain-hack-you-know/answers/59066644?ch=2&srid=uldfI)
+
+* [What's the most motivating one-liner ever? by Ara Mambreyan](https://www.quora.com/Whats-the-most-motivating-one-liner-ever/answer/Ara-Mambreyan-1?ch=2&srid=uldfI)
+
+* [How can you motivate a person in a single line? by Shivi Verma](https://www.quora.com/How-can-you-motivate-a-person-in-a-single-line/answer/Shivi-Verma-45?ch=2&srid=uldfI)
+
 ### Philosophy of Everyday Life
 
 * [Why am I not good at anything? by Nirvik A. Das](https://www.quora.com/Why-am-I-not-good-at-anything-1/answer/Nirvik-A-Das?share=ef06f6ff)
 
 * [When will girls begin to notice the nice guys? by @Harshita511](https://www.quora.com/When-will-girls-begin-to-notice-the-nice-guys/answer/Harshita-Sharma-38?share=cb1ee219)
+
+* [If you only had 15 minutes to sharpen your mind every day, what should you do? by @abinash_XD](https://www.quora.com/If-you-only-had-15-minutes-to-sharpen-your-mind-every-day-what-should-you-do/answer/Abinash-Mishra-69?ch=2&srid=uldfI)
+
+* [What are the habits of highly successful people? by Sanidhya Singh](https://www.quora.com/What-are-the-habits-of-highly-successful-people/answer/Sanidhya-Singh-26?ch=2&srid=uldfI)
+
+* [How can you train yourself to go to sleep quickly like they do in the military? by @RealQuietCool](https://www.quora.com/How-can-you-train-yourself-to-go-to-sleep-quickly-like-they-do-in-the-military/answer/Aaron-Hilliard-9?ch=2&srid=uldfI)
 
 ### Miscellaneous
 
