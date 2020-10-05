@@ -1,6 +1,12 @@
 # Best_of_Quora
 Compilation of Best answers from Quora 
 
+## How to contribute? The step-by-step guidelines for your PR
+
+1. Fork the repository
+2. Make necessary changes and commit those changes to a new branch (Master branch is OK too)
+3. Open a pull request on Github describing what was fixed or added.
+
 ## Topics
 * [Algorithms](https://github.com/vaibhav1729/Best_of_Quora/blob/master/README.md#algorithms)
 * [Computer Hacking (security)](https://github.com/vaibhav1729/Best_of_Quora#computer-hacking-security)
