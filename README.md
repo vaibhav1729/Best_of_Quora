@@ -91,6 +91,10 @@ Compilation of Best answers from Quora
 
 * [What are the greatest lies in Indian history? by Sthitaprajna Mishra](https://www.quora.com/What-are-the-greatest-lies-in-Indian-history/answer/Sthitaprajna-Mishra-2?share=4e0db8b3)
 
+* [Was the Antikythera mechanism or the analytical engine the first computer? by Mark Miller] (https://www.quora.com/Was-the-Antikythera-mechanism-or-the-analytical-engine-the-first-computer)
+
+* [What was Mexico's response to the Zimmerman Telegram? by David Martinez] (https://www.quora.com/What-was-Mexicos-response-to-the-Zimmerman-Telegram)
+
 ### Motivation
 
 * [Each day I sleep with the guilt of not making my day productive but the next day I waste it again. I am getting depressed now. What should I do? by Shubhendu Srivastava](https://www.quora.com/Each-day-I-sleep-with-the-guilt-of-not-making-my-day-productive-but-the-next-day-I-waste-it-again-I-am-getting-depressed-now-What-should-I-do/answer/Shubhendu-Srivastava?share=71cb30e2)
@@ -115,6 +119,8 @@ Compilation of Best answers from Quora
 
 * [How can you train yourself to go to sleep quickly like they do in the military? by @RealQuietCool](https://www.quora.com/How-can-you-train-yourself-to-go-to-sleep-quickly-like-they-do-in-the-military/answer/Aaron-Hilliard-9?ch=2&srid=uldfI)
 
+* [What are the best techniques used to get a better quality sleep? by Andrew Ferebee] (https://www.quora.com/What-are-the-best-techniques-used-to-get-a-better-quality-sleep?q=better%20sleep)
+
 ### Miscellaneous
 
 * [What are some cool dark web websites? by Abhishek Keshri](https://www.quora.com/What-are-some-cool-dark-web-websites/answer/Abhishek-Keshri-7?share=9bdfa180)
@@ -132,5 +138,8 @@ Compilation of Best answers from Quora
 * [Is it really going to help India if we reduce our consumption of Chinese products? by @balajivis](https://www.quora.com/Is-it-really-going-to-help-India-if-we-reduce-our-consumption-of-Chinese-products/answer/Balaji-Viswanathan-2?share=243b71ce)
 
 * [How difficult is it to get a below 100 rank in the GATE (ECE)? by @pankajiitjee](https://www.quora.com/How-difficult-is-it-to-get-a-below-100-rank-in-the-GATE-ECE/answer/Pankaj-Agarwal-167?share=c35a2a09)
+
+* [Which is correct, “to who” or “to whom”? by Lisa Weaver] (https://www.quora.com/Which-is-correct-to-who-or-to-whom?q=who%20or%20whom)
+
 
 
