@@ -91,9 +91,9 @@ Compilation of Best answers from Quora
 
 * [What are the greatest lies in Indian history? by Sthitaprajna Mishra](https://www.quora.com/What-are-the-greatest-lies-in-Indian-history/answer/Sthitaprajna-Mishra-2?share=4e0db8b3)
 
-* [Was the Antikythera mechanism or the analytical engine the first computer? by Mark Miller] (https://www.quora.com/Was-the-Antikythera-mechanism-or-the-analytical-engine-the-first-computer)
+* [Was the Antikythera mechanism or the analytical engine the first computer? by Mark Miller](https://www.quora.com/Was-the-Antikythera-mechanism-or-the-analytical-engine-the-first-computer)
 
-* [What was Mexico's response to the Zimmerman Telegram? by David Martinez] (https://www.quora.com/What-was-Mexicos-response-to-the-Zimmerman-Telegram)
+* [What was Mexico's response to the Zimmerman Telegram? by David Martinez](https://www.quora.com/What-was-Mexicos-response-to-the-Zimmerman-Telegram)
 
 ### Motivation
 
@@ -119,7 +119,7 @@ Compilation of Best answers from Quora
 
 * [How can you train yourself to go to sleep quickly like they do in the military? by @RealQuietCool](https://www.quora.com/How-can-you-train-yourself-to-go-to-sleep-quickly-like-they-do-in-the-military/answer/Aaron-Hilliard-9?ch=2&srid=uldfI)
 
-* [What are the best techniques used to get a better quality sleep? by Andrew Ferebee] (https://www.quora.com/What-are-the-best-techniques-used-to-get-a-better-quality-sleep?q=better%20sleep)
+* [What are the best techniques used to get a better quality sleep? by Andrew Ferebee](https://www.quora.com/What-are-the-best-techniques-used-to-get-a-better-quality-sleep?q=better%20sleep)
 
 ### Miscellaneous
 
@@ -139,7 +139,7 @@ Compilation of Best answers from Quora
 
 * [How difficult is it to get a below 100 rank in the GATE (ECE)? by @pankajiitjee](https://www.quora.com/How-difficult-is-it-to-get-a-below-100-rank-in-the-GATE-ECE/answer/Pankaj-Agarwal-167?share=c35a2a09)
 
-* [Which is correct, “to who” or “to whom”? by Lisa Weaver] (https://www.quora.com/Which-is-correct-to-who-or-to-whom?q=who%20or%20whom)
+* [Which is correct, “to who” or “to whom”? by Lisa Weaver](https://www.quora.com/Which-is-correct-to-who-or-to-whom?q=who%20or%20whom)
 
 
 
